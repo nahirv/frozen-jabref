@@ -237,7 +237,7 @@ dependencies {
     }
     implementation 'org.kordamp.ikonli:ikonli-javafx:12.3.1'
     implementation 'org.kordamp.ikonli:ikonli-materialdesign2-pack:12.3.1'
-    implementation 'com.github.sialcasa.mvvmFX:mvvmfx-validation:f195849ca9' //jitpack
+    implementation 'com.github.sialcasa.mvvmFX:mvvmfx-validation:mvvmfx-1.7.0' //jitpack
     implementation 'de.saxsys:mvvmfx:1.8.0'
     implementation('org.jabref:easybind:2.2.1-SNAPSHOT') {
         exclude group: 'org.openjfx'
